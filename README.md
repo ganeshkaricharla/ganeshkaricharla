@@ -2,7 +2,7 @@
 
 - 💻 I'm a Student, Developer, and Blogger
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with programmers
 - 🥅 2020 Goals: Write 20 blog posts
 
 <p align="center"> 
