@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/ganeshkaricharla?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/ganeshkaricharla">
-    <img src="https://img.shields.io/twitter/follow/ganeshkaricharla?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/GaneshKarichar1?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
