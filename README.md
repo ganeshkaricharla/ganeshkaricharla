@@ -5,9 +5,8 @@
 - 👯 I’m looking to collaborate with programmers
 - 🥅 2020 Goals: Write 20 blog posts
 
-<!-- ### Connect with me: -->
-
-
+---
+<img src="https://github-readme-linkedin.vercel.app/education?username=ganeshkaricharla" />
 ---
 
 <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" />
