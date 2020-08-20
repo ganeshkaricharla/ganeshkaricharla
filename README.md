@@ -38,15 +38,15 @@
 ---
 
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg" />
+  <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ganeshkaricharla?tab=followers">
     <img src="https://img.shields.io/github/followers/ganeshkaricharla?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
- </p>
- <p align="right">
+</p>
+<p align="right">
   <a href="http://twitter.com/ganeshkaricharla">
     <img src="https://img.shields.io/twitter/follow/GaneshKarichar1?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
