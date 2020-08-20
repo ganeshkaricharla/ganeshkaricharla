@@ -34,6 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html)](https://github.com/ganeshkaricharla/github-readme-stats)
 
 <br/>
+
 ---
 
 <p align="left"> 
@@ -41,10 +42,12 @@
   <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ganeshkaricharla?tab=followers">
     <img src="https://img.shields.io/github/followers/ganeshkaricharla?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+ </p>
+ <p align="left">
   <a href="http://twitter.com/ganeshkaricharla">
     <img src="https://img.shields.io/twitter/follow/GaneshKarichar1?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
