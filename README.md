@@ -6,8 +6,10 @@
 - 🥅 2020 Goals: Write 20 blog posts
 
 ---
+
 [![Repos Badge](https://badges.pufler.dev/repos/ganeshkaricharla)](https://badges.pufler.dev)
 <a href="https://github.com/ganeshkaricharla"><img src="https://img.shields.io/github/followers/ganeshkaricharla.svg?label=GitHub&style=social" alt="GitHub"></a>
+
 ---
 
 ##Skills / Tools /Languages
@@ -22,13 +24,17 @@
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+<br/>
+
 ---
 
 <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html&layout=compact)](https://github.com/ganeshkaricharla/github-readme-stats)
+
 ---
-<p align="right"> 
+
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg" />
 </p>
