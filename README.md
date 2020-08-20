@@ -12,6 +12,8 @@
 
 <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html)](https://github.com/ganeshkaricharla/github-readme-stats)
+---
 <p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg" />
