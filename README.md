@@ -8,6 +8,8 @@
 ---
 [![Repos Badge](https://badges.pufler.dev/repos/ganeshkaricharla)](https://badges.pufler.dev)
 ---
+<a href="https://github.com/ganeshkaricharla"><img src="https://img.shields.io/github/followers/ganeshkaricharla.svg?label=GitHub&style=social" alt="GitHub"></a>
+---
 
 <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" />
 
