@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Write 20 blog posts
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/ganeshkaricharla/ganeshkaricharla)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/ganeshkaricharla/)](https://badges.pufler.dev)
 ---
 
 <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" />
