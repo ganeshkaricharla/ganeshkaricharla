@@ -12,7 +12,7 @@
 
 ---
 
-##Skills / Tools /Languages
+## Skills / Tools /Languages
 
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -31,17 +31,17 @@
 
 <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html&layout=compact)](https://github.com/ganeshkaricharla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html)](https://github.com/ganeshkaricharla/github-readme-stats)
 
 <br/>
 ---
 
 <p align="left"> 
-  Visits
+  Visits 
   <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg" />
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/ganeshkaricharla?tab=followers">
     <img src="https://img.shields.io/github/followers/ganeshkaricharla?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
