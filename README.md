@@ -24,6 +24,7 @@
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+
 <br/>
 
 ---
@@ -32,10 +33,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html&layout=compact)](https://github.com/ganeshkaricharla/github-readme-stats)
 
+<br/>
 ---
 
 <p align="left"> 
-  Visitor count<br>
+  Visits
   <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg" />
 </p>
 
