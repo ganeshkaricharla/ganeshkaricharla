@@ -32,6 +32,8 @@
 <img align="left" src="https://img.shields.io/badge/-MACHINE LEARNING-green"/>
 <img align="left" src="https://img.shields.io/badge/-COMPETITIVE PROGRAMMING-red"/>
 <img align="left" src="https://img.shields.io/badge/-GRAPHIC DESIGN-blue"/>
+<img align="left" src="https://img.shields.io/badge/-DATA STRUCTURES-orange"/>
+<img align="left" src="https://img.shields.io/badge/-IT AUTOMATION-blueviolet"/>
 
 
 <br/>
