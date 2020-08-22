@@ -26,10 +26,8 @@
 <img align="left" src="https://img.shields.io/badge/-SQL-yellowgreen"/>
 
 <br/>
-<br/>
 
 ### Skills
-
 <img align="left" src="https://img.shields.io/badge/-DATA ANALYSIS-yellow"/>
 <img align="left" src="https://img.shields.io/badge/-MACHINE LEARNING-green"/>
 <img align="left" src="https://img.shields.io/badge/-COMPETITIVE PROGRAMMING-red"/>
