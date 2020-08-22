@@ -15,25 +15,38 @@
 ## Skills / Tools /Languages
 
 ### Programming Languages
-<img  src="https://img.shields.io/badge/-C-blue"/>
-<img  src="https://img.shields.io/badge/-C++-blueviolet"/>
-<img  src="https://img.shields.io/badge/-JAVA-red"/>
-<img  src="https://img.shields.io/badge/-PYTHON-yellow"/>
+<img align="left" src="https://img.shields.io/badge/-C-blue"/>
+<img align="left" src="https://img.shields.io/badge/-C++-blueviolet"/>
+<img align="left" src="https://img.shields.io/badge/-JAVA-red"/>
+<img align="left" src="https://img.shields.io/badge/-PYTHON-yellow"/>
 
 <br/>
 
+### Query Languages
+<img align="left" src="https://img.shields.io/badge/-SQL-yellowgreen"/>
+
+### Skills
+
+<img align="left" src="https://img.shields.io/badge/-DATA ANALYSIS-yellow"/>
+<img align="left" src="https://img.shields.io/badge/-MACHINE LEARNING-green"/>
+<img align="left" src="https://img.shields.io/badge/-COMPETITIVE PROGRAMMING-red"/>
+
 ### Web Design
-<img  src="https://img.shields.io/badge/-HTML-orange"/>
-<img  src="https://img.shields.io/badge/-CSS-yellow"/>
-<img  src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
+<img align="left" src="https://img.shields.io/badge/-HTML-orange"/>
+<img align="left" src="https://img.shields.io/badge/-CSS-yellow"/>
+<img align="left" src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
+<img align="left" src="https://img.shields.io/badge/-BOOTSTRAP-green"/>
 
 <br/>
 
 ### Tools
 
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /> 
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" src="https://img.shields.io/badge/-VSCODE-blue"/>
+<img align="left" src="https://img.shields.io/badge/-GIT-green"/>
+<img align="left" src="https://img.shields.io/badge/-JUPYTER-orange"/>
+<img align="left" src="https://img.shields.io/badge/-MSOFFICE-red"/>
+<img align="left" src="https://img.shields.io/badge/-oracle-yellow"/>
+<img align="left" src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
 
 
 <br/>
