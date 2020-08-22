@@ -15,20 +15,17 @@
 ## Skills / Tools /Languages
 
 ### Programming Languages
+<img width="60px" src="https://img.shields.io/badge/-C-blue"/>
+<img width="60px" src="https://img.shields.io/badge/-C++-blueviolet"/>
+<img width="60px" src="https://img.shields.io/badge/-JAVA-red"/>
+<img width="60px" src="https://img.shields.io/badge/-PYTHON-yellow"/>
 
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/java/java.png" />
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br/>
 <br/>
 
 ### Web Design
 <img width="60px" src="https://img.shields.io/badge/-HTML-orange"/>
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img width="60px" src="https://img.shields.io/badge/-CSS-yellow"/>
+<img width="60px" src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
 
 <br/>
 
