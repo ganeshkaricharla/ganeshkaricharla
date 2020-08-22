@@ -15,17 +15,17 @@
 ## Skills / Tools /Languages
 
 ### Programming Languages
-<img width="60px" src="https://img.shields.io/badge/-C-blue"/>
-<img width="60px" src="https://img.shields.io/badge/-C++-blueviolet"/>
-<img width="60px" src="https://img.shields.io/badge/-JAVA-red"/>
-<img width="60px" src="https://img.shields.io/badge/-PYTHON-yellow"/>
+<img  src="https://img.shields.io/badge/-C-blue"/>
+<img  src="https://img.shields.io/badge/-C++-blueviolet"/>
+<img  src="https://img.shields.io/badge/-JAVA-red"/>
+<img  src="https://img.shields.io/badge/-PYTHON-yellow"/>
 
 <br/>
 
 ### Web Design
-<img width="60px" src="https://img.shields.io/badge/-HTML-orange"/>
-<img width="60px" src="https://img.shields.io/badge/-CSS-yellow"/>
-<img width="60px" src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
+<img  src="https://img.shields.io/badge/-HTML-orange"/>
+<img  src="https://img.shields.io/badge/-CSS-yellow"/>
+<img  src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
 
 <br/>
 
