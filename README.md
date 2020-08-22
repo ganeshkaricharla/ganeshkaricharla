@@ -35,7 +35,7 @@
 <img align="left" src="https://img.shields.io/badge/-COMPETITIVE PROGRAMMING-red"/>
 <img align="left" src="https://img.shields.io/badge/-GRAPHIC DESIGN-blue"/>
 
-<br/>
+
 <br/>
 
 ### Web Design
