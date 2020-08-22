@@ -25,11 +25,18 @@
 ### Query Languages
 <img align="left" src="https://img.shields.io/badge/-SQL-yellowgreen"/>
 
+<br/>
+<br/>
+
 ### Skills
 
 <img align="left" src="https://img.shields.io/badge/-DATA ANALYSIS-yellow"/>
 <img align="left" src="https://img.shields.io/badge/-MACHINE LEARNING-green"/>
 <img align="left" src="https://img.shields.io/badge/-COMPETITIVE PROGRAMMING-red"/>
+<img align="left" src="https://img.shields.io/badge/-GRAPHIC DESIGN-blue"/>
+
+<br/>
+<br/>
 
 ### Web Design
 <img align="left" src="https://img.shields.io/badge/-HTML-orange"/>
@@ -45,9 +52,10 @@
 <img align="left" src="https://img.shields.io/badge/-GIT-green"/>
 <img align="left" src="https://img.shields.io/badge/-JUPYTER-orange"/>
 <img align="left" src="https://img.shields.io/badge/-MSOFFICE-red"/>
-<img align="left" src="https://img.shields.io/badge/-oracle-yellow"/>
-<img align="left" src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
-
+<img align="left" src="https://img.shields.io/badge/-ORACLE-yellow"/>
+<img align="left" src="https://img.shields.io/badge/-TERMINAL-orange"/>
+<img align="left" src="https://img.shields.io/badge/-IBM WATSON-yellowgreen"/>
+<img align="left" src="https://img.shields.io/badge/-PHOTOSHOP-blue"/>
 
 <br/>
 
