@@ -12,10 +12,6 @@ I am Ganesh. I consider myself as a smart worker and determined team player. I a
 - 👯 I’m looking to collaborate with programmers
 - 🥅 2020 Goals: Write 20 blog posts
 
----
-
-[![Repos Badge](https://badges.pufler.dev/repos/ganeshkaricharla)](https://badges.pufler.dev)
-<a href="https://github.com/ganeshkaricharla"><img src="https://img.shields.io/github/followers/ganeshkaricharla.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 ---
 
