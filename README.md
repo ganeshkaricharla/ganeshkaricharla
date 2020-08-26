@@ -7,6 +7,8 @@ I am Ganesh. I consider myself as a smart worker and determined team player. I a
 - ✔️ Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
 
+### Brief about me
+
 - 💻 I'm a Student, Developer, and Blogger
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with programmers
