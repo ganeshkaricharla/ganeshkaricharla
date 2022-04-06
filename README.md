@@ -1,22 +1,23 @@
 ## Hi there, I'm Ganesh 👋
 
-I am Ganesh. I consider myself as a smart worker and determined team player. I am an developer skilled in C++, Java, Machine learning, Web Design, Data science and it's tools
+I am Ganesh. I consider myself as a smart worker and determined team player. I am an developer skilled in  Java, Web Design, Data science and it's tools
 
-- ✔️ I'm a fast learner looking for interesting career opportunities in Data Anlytics and Software Developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. I am looking for growth.
+- ✔️ I'm a fast learner looking for interesting career opportunities in Quality assurance and Software Developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. I am looking for growth.
 
-- ✔️ Currently, I am looking for internships and research projects in the field of Computer science and engineering.
+- ✔️ Currently, I am looking for some research projects to spend time.
 
 
 ### Brief about me
 
-- 💻 I'm a Student, Developer, and Competitive Programmer.❤
+- 💻 I'm a Student, Tester, and Competitive Programmer.❤
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with programmers 🤖🤖
-- 🥅 2021 Goals: Should place in a company where i grow with my skills and Knowledge.😎
+- 🥅 2022 Goals:Grow in organisation and run a student community to uplift the student on tech domain.😎
 
 
 ---
-
+Note: If you need any help in quality assurance
+---
 ## Skills / Tools /Languages
 
 ### Programming Languages
