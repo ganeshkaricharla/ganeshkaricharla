@@ -9,11 +9,9 @@ I am Ganesh. I consider myself as a smart worker and determined team player. I a
 
 ### Brief about me
 
-- 💻 I'm a Student, Tester, and Competitive Programmer.❤
+- 💻 I'm a Student, Tester, Full stack developer and Competitive Programmer.❤
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with programmers 🤖🤖
-- 🥅 2022 Goals:Grow in organisation and run a student community to uplift the student on tech domain.😎
-
 
 ---
 Note: If you need any help in quality assurance
@@ -21,11 +19,8 @@ Note: If you need any help in quality assurance
 ## Skills / Tools /Languages
 
 ### Programming Languages
-<img align="left" src="https://img.shields.io/badge/-C-blue"/>
-<img align="left" src="https://img.shields.io/badge/-C++-blueviolet"/>
 <img align="left" src="https://img.shields.io/badge/-JAVA-red"/>
 <img align="left" src="https://img.shields.io/badge/-PYTHON-yellow"/>
-<img align="left" src="https://img.shields.io/badge/-R Language-blue"/>
 
 <br/>
 
@@ -41,6 +36,8 @@ Note: If you need any help in quality assurance
 <img align="left" src="https://img.shields.io/badge/-GRAPHIC DESIGN-blue"/>
 <img align="left" src="https://img.shields.io/badge/-DATA STRUCTURES AND ALGORITHMS-orange"/>
 <img align="left" src="https://img.shields.io/badge/-IT AUTOMATION-blueviolet"/>
+<img align="left" src="https://img.shields.io/badge/-FULL STACK-blueviolet"/>
+
 
 
 <br/>
@@ -66,16 +63,6 @@ Note: If you need any help in quality assurance
 <img align="left" src="https://img.shields.io/badge/-PHOTOSHOP-blue"/>
 
 
-
-<br/>
-
----
-
-<img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html)](https://github.com/ganeshkaricharla/github-readme-stats)
-
-<br/>
 
 ---
 
