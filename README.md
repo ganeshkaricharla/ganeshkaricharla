@@ -65,12 +65,3 @@ Note: If you need any help in quality assurance
 
 
 ---
-
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg"/>
-</p>
-<p align="center">
-  <a href="https://github.com/ganeshkaricharla?tab=followers">
-    <img src="https://img.shields.io/github/followers/ganeshkaricharla?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
